@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.snakefor100.test1.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.snakefor100.test1.MyBundle
 
 class MyApplicationService {
 
